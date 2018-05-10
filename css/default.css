@@ -1,0 +1,44 @@
+body {
+    
+    background-image:url('image/p8.PG');
+    font-family: 'Titan One', cursive;
+    border-radius: 30pt
+}
+.thumbnail{
+    width: 300px;
+    height: 170px;
+    background-attachment: fixed;
+    background-position: bottom left; 
+    background-size: 10px 10px;
+    border-radius: 0%;
+        
+}
+.placename{ 
+    color: blue;
+}
+.container{
+    color:rgb(255, 255, 255)
+
+     
+}
+.jumbotron{
+    
+    background-color: rgba(116, 116, 116, 0.5);
+    color:rgba(255, 236, 125, 0.829)
+    
+}
+.display-3{
+    color:rgb(106, 219, 125)
+}
+.lead{
+    color:rgb(228, 228, 228)
+}
+    
+.searchresult{
+    background-size: 10px 10px;
+}
+
+.btn .btn-primary
+{
+    text-align: center;
+}
